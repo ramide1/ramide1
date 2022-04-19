@@ -1,6 +1,6 @@
 Español:
 - 👋 Hola, Soy @ramidep
-- 👀 Estoy enteresado en Javascript, Java y C#
+- 👀 Estoy interesado en Javascript, Java y C#
 - 🌱 Actualmente estoy aprendiendo Javascript
 
 English:
